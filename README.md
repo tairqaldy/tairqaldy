@@ -1,5 +1,44 @@
-# 💫 About Me:
-About Me 🌟<br><br>👨‍💻 I'm currently working on:<br>- Creating customized web solutions and digital products that solve real-world problems. My projects range from AI-driven tools and educational platforms to client-specific web applications that enhance productivity and accessibility.<br><br>🤝 I'm looking to collaborate on:<br>- Web development projects (full-stack).<br>- Custom product creation based on user needs and feedback.<br>- Solutions that combine AI, sleek UI/UX, and practical functionality.<br><br>💡 I'm looking for help with:<br>- Refining ideas, testing prototypes, and scaling tools for global accessibility. I love collaborating with creative teams and clients to bring their vision to life.<br><br>🌱 I'm currently learning:<br>- New frameworks like Next.js and tools for progressive web apps (PWAs). I’m also exploring how to make platforms more inclusive and efficient for all users.<br><br>💬 Ask me about:<br>- Full-stack web development (React, Node.js, and beyond).<br>- Creating products from scratch to launch.<br>- Optimizing workflows and integrating client-driven features into scalable systems.<br>- Fun things like BMX riding 🚴 or board game development 🎲.<br><br>⚡ Fun fact:<br>-I built my first project by tinkering on my mom's computer in 2015. Since then, I’ve been passionate about combining technology, creativity, and user-centric design to make ideas a reality.
+# About Me 🌟
+👨‍💻 **Currently Working On:**
+- Developing customized web solutions and digital products that address real-world challenges. My projects include AI-driven tools, educational platforms, and client-specific web applications aimed at enhancing productivity and accessibility.
+
+🤝 **Looking to Collaborate On:**
+- Full-stack web development projects.
+- Creating custom products based on user needs and feedback.
+- Solutions that integrate AI, sleek UI/UX, and practical functionality.
+
+💡 **Seeking Assistance With:**
+- Refining ideas, testing prototypes, and scaling tools for global accessibility. I thrive on collaborating with creative teams and clients to bring their visions to life.
+
+🌱 **Currently Learning:**
+- New frameworks like Next.js and tools for progressive web apps (PWAs). I'm also exploring ways to make platforms more inclusive and efficient for all users.
+
+💬 **Feel Free to Ask Me About:**
+- Full-stack web development (React, Node.js, and beyond).
+- Creating products from scratch to launch.
+- Optimizing workflows and integrating client-driven features into scalable systems.
+- Hobbies like BMX riding 🚴 and board game development 🎲.
+
+⚡ **Fun Fact:**
+- I built my first project by tinkering on my mom's computer in 2015. Since then, I’ve been passionate about combining technology, creativity, and user-centric design to turn ideas into reality.
+
+## 🧑‍💻 Developer Focus
+
+- **Technologies:** React, Node.js, Express, MongoDB, Next.js, and more.
+- **Methodologies:** Agile development, Test-Driven Development (TDD), CI/CD pipelines.
+- **Best Practices:** Writing clean, maintainable code, ensuring accessibility, and optimizing performance.
+
+## 🌟 Future Plans
+
+- **User Authentication:** Implement user accounts to manage personalized settings and chat histories.
+- **Advanced Settings:** Provide more customization options for chat behavior and appearance.
+- **Multi-language Support:** Enable the chatbot to understand and respond in multiple languages.
+- **Enhanced UI/UX:** Improve the user interface with better animations and accessibility features.
+- **Deployment:** Host the application on platforms like GitHub Pages, Vercel, or Netlify for easy access.
+- **Integration:** Incorporate additional AI services and APIs to expand functionality.
+- **Community Building:** Foster a community around the project for feedback, contributions, and collaboration.
+
+---
 
 
 ## 🌐 Socials:
