@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 Developer Focus
 
-- **Technologies:** React, Node.js, Express, MongoDB, Next.js, and more.
+- **Technologies:** React, Node.js, Clerk, Firebase, Next.js, and more.
 - **Methodologies:** Agile development, Test-Driven Development (TDD), CI/CD pipelines.
 - **Best Practices:** Writing clean, maintainable code, ensuring accessibility, and optimizing performance.
 
