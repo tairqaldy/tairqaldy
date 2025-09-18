@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tair</h1>
 <h3 align="center">Student @ Fontys ICT | Software Engineering • Web Dev • AI • Problem Solving</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/20/87/13/208713f7bdfa77fb38999cfeb1bcee92.gif">
+<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/v2/C4E22AQFiBhrsiWjXmQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1642555280561?e=2147483647&v=beta&t=GRXGZCeMQh52--e-6UFjpfprTHQryqAwMzuK_V5AxLQ">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tairqaldy&label=Profile%20views&color=0e75b6&style=flat" alt="tairqaldy" /> 
