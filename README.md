@@ -7,11 +7,13 @@
 </p>
 
 - 🔭 I’m currently working on [Prompt Battle WebGame](https://github.com/tairqaldy/prompt-battle-webgame) 🎮  
-- 🌱 I love building with **Next.js, Supabase, n8n automations, Firebase, Node.js, and AI frameworks**  
+
 - 💬 Ask me about **software engineering, full-stack web development, AI agents, or problem-solving**  
+
 - 🎓 Academic flex: **AP Calculus BC – 5 | AP Statistics – 4**  
+
 - 🤝 Open to collaborate on **AI-driven tools, multiplayer web apps, and engineering projects**  
-- ⚡ Fun fact: I started coding by tinkering on my mom’s laptop in 2015 and haven’t stopped since 🚀  
+
 - 📫 Reach me at **taircaldy.yt@gmail.com**
 
 ---
