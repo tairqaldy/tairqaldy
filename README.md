@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tair 👋</h1>
-<h3 align="center">Student @ Fontys ICT | Software Engineering • Web Dev • AI • Problem Solving</h3>
+<h3 align="center">Student Fontys ICT | Software Engineering • Web Dev • AI • Problem Solving</h3>
 <img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/v2/C4E22AQFiBhrsiWjXmQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1642555280561?e=2147483647&v=beta&t=GRXGZCeMQh52--e-6UFjpfprTHQryqAwMzuK_V5AxLQ">
 
 <p align="left"> 
