@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=tairqaldy&label=Profile%20views&color=0e75b6&style=flat" alt="tairqaldy" /> 
 </p>
 
-- 🔭 I’m currently working on [Prompt Battle WebGame](https://github.com/tairqaldy/prompt-battle-webgame) 🎮  
+- 🔭 I’m currently working on [Three.js 3D Portfolio Website](https://github.com/tairqaldy/three.js-3d-portfolio-website) 🧊  
 
 - 💬 Ask me about **software engineering, full-stack web development, AI agents, or problem-solving**  
 
