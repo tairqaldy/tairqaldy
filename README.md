@@ -12,7 +12,7 @@
 
 - 🎓 Academic flex: **AP Calculus BC – 5 | AP Statistics – 4**  
 
-- 🤝 Open to collaborate on **AI-driven tools, multiplayer web apps, and engineering projects**  
+- 🤝 Open to collaborate on **AI-driven tools, web applications, and engineering projects**  
 
 - 📫 Reach me at **taircaldy.yt@gmail.com**
 
