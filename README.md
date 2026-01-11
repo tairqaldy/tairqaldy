@@ -14,7 +14,7 @@
 
 - 🤝 Open to collaborate on **AI-driven tools, web applications, and engineering projects**  
 
-- 📫 Reach me at **taircaldy.yt@gmail.com**
+- 📫 Reach me at **tairkaldybayev@gmail.com**
 
 ---
 
