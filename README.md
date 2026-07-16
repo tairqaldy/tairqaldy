@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=tairqaldy&label=Profile%20views&color=0e75b6&style=flat" alt="tairqaldy" /> 
 </p>
 
-- 🔭 I’m currently working on [CodeArchitect MCP](https://github.com/tairqaldy/codearchitect-mcp) 🧊  
+- 🔭 I’m currently working on [CodeArchitect MCP](https://github.com/tairqaldy/codearchitect-mcp) 🧊  actually there are a few: https://ictbuddy.dev, https://zhaksartu.xyz/, https://sathustle.com, languageinterview.xyz (WordFactory)
 
 - 💬 Ask me about **software engineering, full-stack web development, AI agents, or problem-solving**  
 
