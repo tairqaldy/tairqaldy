@@ -4,7 +4,7 @@ AI engineer and founder in Astana. Always smiling, building every day. Working r
 
 [**LinkedIn**](https://www.linkedin.com/in/tairkaldybayev/) | 
 [**Instagram**](https://www.instagram.com/tairqaldy/) | 
-[tairqaldy.xyz](https://tairqaldy.xyz/) · [**qairuhub**](https://qairuhub.com/)
+[tairqaldy.xyz](https://tairqaldy.xyz/) | [qairuhub](https://qairuhub.com/)
 
 ---
 
