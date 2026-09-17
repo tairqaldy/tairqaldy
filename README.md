@@ -8,7 +8,7 @@ AI engineer and founder in Astana. Always smiling, building every day. Working r
 
 **Building**
 
-- [**qairuhub**](https://qairuhub.com/) — student builder platform · [community](https://community.qairuhub.com/home) · [wingsday](https://wingsday.qairuhub.com/) · [theqairubook](https://wingsday.qairuhub.com/)
+- [**qairuhub org**](https://github.com/qairuhub) — Kazakhstan student builder community  · [qairuhub](https://qairuhub.com/)· [community](https://community.qairuhub.com/home) · [wingsday](https://wingsday.qairuhub.com/) · [theqairubook](https://wingsday.qairuhub.com/)
 - [**theqairubook**](https://the.qairuhub.com/) — 100+ users, styled after Facebook circa 2004
 - [**CodeArchitect MCP**](https://codearchitect.mintlify.app/) — 2,000+ installs
 - [**SATHustle**](https://sathustle.com/) — competitive 1v1 SAT prep
