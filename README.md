@@ -1,3 +1,16 @@
-<h1 align="center">Hi, I'm Tair</h1>
-<h3 align="center">software engineer • AI • building everyday</h3>
-
+<h1 align="left">Hi, I'm Tair Kaldybayev</h1>
+<h3 align="center"> Always Smiling AI Engineer • entrepreneur • building everyday</h3>
+<h5 align="right"> [qairuhub.com](https://qairuhub.com/) </h5> 
+<h5 align="left"> [tairqaldy.xyz](https://tairqaldy.xyz/) </h5>
+<h5 align="center"> [wingsday.qairuhub.com](https://wingsday.qairuhub.com/) </h5>
+<h5 align="right"> [resurfly.com](https://resurfly.com/)</h5>
+<h5 align="left"> [sathustle.com](https://sathustle.com/) </h5>
+<h5 align="center"> [qaldy.com](https://qaldy.com/) </h5>
+<h5 align="right"> [qairuhub community](https://community.qairuhub.com/home) </h5>
+<h5 align="left"> [codearchitect mcp 2000+ installs](https://codearchitect.mintlify.app/)</h5>
+<h5 align="center"> ["theqairubook" - 100+ users AND inspired by facebook design 2004](https://the.qairuhub.com/)</h5>
+<h5 align="right"> [zhaksartu](https://zhaksartu.xyz/gate) </h5>
+<h5 align="left"> [interview tool](https://languageinterview.xyz/)</h5> 
+<h5 align="center"> [astanahub tech incubator 2026](https://astanahub.com/en/l/techIncubator2026) </h5>
+<h5 align="right"> mygoal: $1bil before 25</h5>
+<h5 align="right"> not everything and more projects to go!</h5>
