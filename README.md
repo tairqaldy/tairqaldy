@@ -2,6 +2,8 @@
 
 AI engineer and founder in Astana. Always smiling, building every day. Working remote and open for all collabs
 
+[**LinkedIn**](https://www.linkedin.com/in/tairkaldybayev/) | 
+[**Instagram**](https://www.instagram.com/tairqaldy/) | 
 [tairqaldy.xyz](https://tairqaldy.xyz/) · [**qairuhub**](https://qairuhub.com/)
 
 ---
@@ -20,8 +22,6 @@ AI engineer and founder in Astana. Always smiling, building every day. Working r
 
 **Now**
 
-[**LinkedIn**](https://www.linkedin.com/in/tairkaldybayev/) | 
-[**Instagram**](https://www.instagram.com/tairqaldy/) | 
 [**Astana Hub Tech Incubator 2026**](https://astanahub.com/en/l/techIncubator2026) | 
 [**QAIRU student with full tuition coverage article**](https://www.linkedin.com/feed/update/urn:li:activity:7498474895513907200/) | 
 [**€13k as 17y.o story**](https://www.linkedin.com/feed/update/urn:li:activity:7434202927621144576/)
